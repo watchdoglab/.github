@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="logo.png" width="160" alt="Watchdog Lab">
-
-# Watchdog Lab
+<img src="banner.gif" width="100%" alt="Watchdog Lab — security for autonomous code">
 
 ### Autonomous code needs autonomous security.
 
