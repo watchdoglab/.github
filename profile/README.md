@@ -1,20 +1,28 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/watchdoglab/watchdog/main/assets/banner.gif" width="100%" alt="Watchdog — security dogs for your code">
+<img src="lab-icon.png" width="160" alt="Watchdog Lab">
 
-### Security review that runs while you build.
+# Watchdog Lab
+
+### Autonomous code needs autonomous security.
 
 A pack of 14 security dogs for Claude Code and GitHub. Each one guards one part of your product,<br>
 flags the risky line as it's written, and audits the whole repo in one command.
 
-<a href="https://watchdoglab.github.io"><img src="https://img.shields.io/badge/Website-watchdoglab.github.io-f97316?style=for-the-badge&labelColor=111827" alt="Website"></a>
-<a href="https://github.com/watchdoglab/watchdog"><img src="https://img.shields.io/badge/Claude_Code-Plugin-f97316?style=for-the-badge&labelColor=111827" alt="Claude Code plugin"></a>
-<a href="https://github.com/watchdoglab/watchdog-action"><img src="https://img.shields.io/badge/GitHub-Action-f97316?style=for-the-badge&labelColor=111827" alt="GitHub Action"></a>
-<a href="https://github.com/watchdoglab/watchdog/blob/main/LICENSE"><img src="https://img.shields.io/github/license/watchdoglab/watchdog?style=for-the-badge&labelColor=111827&color=f97316" alt="License"></a>
+<a href="https://watchdoglab.github.io"><img src="https://img.shields.io/badge/Website-watchdoglab.github.io-2DD4BF?style=for-the-badge&labelColor=111827" alt="Website"></a>
+<a href="https://github.com/watchdoglab/watchdog"><img src="https://img.shields.io/badge/Claude_Code-Plugin-2DD4BF?style=for-the-badge&labelColor=111827" alt="Claude Code plugin"></a>
+<a href="https://github.com/watchdoglab/watchdog-action"><img src="https://img.shields.io/badge/GitHub-Action-2DD4BF?style=for-the-badge&labelColor=111827" alt="GitHub Action"></a>
+<a href="https://github.com/watchdoglab/watchdog/blob/main/LICENSE"><img src="https://img.shields.io/github/license/watchdoglab/watchdog?style=for-the-badge&labelColor=111827&color=2DD4BF" alt="License"></a>
 
 </div>
 
 <br>
+
+## 🧭 Philosophy
+
+- **Always on guard** — security runs while you build, not after. Every change gets watched the moment it's written.
+- **Fix, not fear** — every finding comes with the line, why it matters, and the smallest fix.
+- **Safe by design** — static by default, read-only in CI, and secrets are never printed.
 
 ## 🐕 Meet the pack
 
