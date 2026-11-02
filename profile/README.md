@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="lab-icon.png" width="160" alt="Watchdog Lab">
+<img src="logo.png" width="160" alt="Watchdog Lab">
 
 # Watchdog Lab
 
